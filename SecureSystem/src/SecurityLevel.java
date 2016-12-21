@@ -1,6 +1,3 @@
-/**
- * Created by thanhnguyencs on 6/8/15.
- */
 public class SecurityLevel {
 
     private final int level;
@@ -19,4 +16,3 @@ public class SecurityLevel {
         return this.level >= object.level;
     }
 }
-

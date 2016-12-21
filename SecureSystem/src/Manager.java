@@ -1,8 +1,5 @@
 import java.util.StringTokenizer;
 
-/**
- * Created by thanhnguyencs on 6/8/15.
- */
 public class Manager {
     // constant
     public static final String READ = "read";

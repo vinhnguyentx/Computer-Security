@@ -1,6 +1,3 @@
-/**
- * Created by thanhnguyencs on 6/8/15.
- */
 public class InstructionObject {
     private String command;
     private String subject;

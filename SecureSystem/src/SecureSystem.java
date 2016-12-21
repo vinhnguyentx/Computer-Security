@@ -3,9 +3,6 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-/**
- * Created by thanhnguyencs on 6/8/15.
- */
 public class SecureSystem {
 
     public static void main(String args[]) {

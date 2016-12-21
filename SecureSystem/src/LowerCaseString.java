@@ -1,6 +1,3 @@
-/**
- * Created by thanhnguyencs on 6/9/15.
- */
 public class LowerCaseString {
     private final String s;
 

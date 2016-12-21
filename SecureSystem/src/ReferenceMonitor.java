@@ -1,8 +1,5 @@
 import java.util.LinkedHashMap;
 
-/**
- * Created by thanhnguyencs on 6/8/15.
- */
 public class ReferenceMonitor {
     private ObjectManager objectManager;
     private SubjectManager subjectManager;

@@ -1,8 +1,5 @@
 import junit.framework.TestCase;
 
-/**
- * Created by thanhnguyencs on 6/10/15.
- */
 public class TestCase2 extends TestCase {
     public void testMain() {
         RegTest.Utility.redirectStdOut("testcase2.txt");  // redirects standard out to file "out.txt"
