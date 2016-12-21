@@ -1,9 +1,3 @@
-UTEID: ttn2365; vtn288;
-FIRSTNAME: Thanh; Vinh;
-LASTNAME: Nguyen; Nguyen;
-CSACCOUNT: thanhcs; vinhcs;
-EMAIL: thanhnguyencs@utexas.edu; vinhnnguyentx@gmail.com;
-
 [Program 4]
 [Description]
 There are 8 java file in our program.
@@ -74,4 +68,3 @@ testcase4
 [Output of test 4]
 testcase4.enc
 testcase4.enc.dec
-
