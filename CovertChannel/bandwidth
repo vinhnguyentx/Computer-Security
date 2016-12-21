@@ -1,0 +1,6 @@
+[Results Summary]
+[No.]	[DocumentName] 		[Size] 	 		[Bandwidth]
+1	Pride and Prejudice	   701574 bytes		222 bits/ms
+2	Metamorphosis		   138491 bytes		191 bits/ms
+3	testcase1			      368 bytes		  7 bits/ms
+4	testcase2			       94 bytes		  3 bits/ms
