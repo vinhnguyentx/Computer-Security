@@ -1,0 +1,85 @@
+Reading from file: testCase1
+
+Bad Instruction
+The current state is:
+   LObj has value: 0
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+Bad Instruction
+The current state is:
+   LObj has value: 0
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+hal writes value 10 to lobj
+The current state is:
+   LObj has value: 0
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+lyle reads lobj
+The current state is:
+   LObj has value: 0
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+lyle writes value 20 to lobj
+The current state is:
+   LObj has value: 20
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+lyle writes value 200 to hobj
+The current state is:
+   LObj has value: 20
+   HObj has value: 200
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+hal reads hobj
+The current state is:
+   LObj has value: 20
+   HObj has value: 200
+   Lyle has recently read: 0
+   Hal has recently read: 200
+
+lyle reads lobj
+The current state is:
+   LObj has value: 20
+   HObj has value: 200
+   Lyle has recently read: 20
+   Hal has recently read: 200
+
+lyle reads hobj
+The current state is:
+   LObj has value: 20
+   HObj has value: 200
+   Lyle has recently read: 0
+   Hal has recently read: 200
+
+Bad Instruction
+The current state is:
+   LObj has value: 20
+   HObj has value: 200
+   Lyle has recently read: 0
+   Hal has recently read: 200
+
+Bad Instruction
+The current state is:
+   LObj has value: 20
+   HObj has value: 200
+   Lyle has recently read: 0
+   Hal has recently read: 200
+
+Bad Instruction
+The current state is:
+   LObj has value: 20
+   HObj has value: 200
+   Lyle has recently read: 0
+   Hal has recently read: 200

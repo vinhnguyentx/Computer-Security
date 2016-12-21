@@ -1,0 +1,10 @@
+write
+read
+write hal LOBJ 100
+write HAL HOBJ 200
+WRITE LYLE LOBJ 100
+WritE HAL HObj 200
+READ HAL HOBJ
+REad HaL LoBJ
+REaD lyle LObJ
+ReAD hal HOBJ

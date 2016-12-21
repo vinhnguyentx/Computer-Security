@@ -1,0 +1,18 @@
+write hal lobj 20
+read lyle hobj
+read lyle hobj 20
+write lyle hal
+write lyle lobj q10
+write lyle lobj 100
+write lyle hal 20 20
+read lyle
+write hal
+write lobj hobj 20
+write hobj hal 20
+read lobj lobj
+read hobj lyle
+read hal lobj
+write hal lyle
+write lyle lyle
+read hal lyle
+write lyle hal

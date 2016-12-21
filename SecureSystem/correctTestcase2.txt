@@ -1,0 +1,127 @@
+Reading from file: testCase2
+
+hal writes value 20 to lobj
+The current state is:
+   LObj has value: 0
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+lyle reads hobj
+The current state is:
+   LObj has value: 0
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+Bad Instruction
+The current state is:
+   LObj has value: 0
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+Bad Instruction
+The current state is:
+   LObj has value: 0
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+Bad Instruction
+The current state is:
+   LObj has value: 0
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+lyle writes value 100 to lobj
+The current state is:
+   LObj has value: 100
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+Bad Instruction
+The current state is:
+   LObj has value: 100
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+Bad Instruction
+The current state is:
+   LObj has value: 100
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+Bad Instruction
+The current state is:
+   LObj has value: 100
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+Bad Instruction
+The current state is:
+   LObj has value: 100
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+Bad Instruction
+The current state is:
+   LObj has value: 100
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+Bad Instruction
+The current state is:
+   LObj has value: 100
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+Bad Instruction
+The current state is:
+   LObj has value: 100
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+hal reads lobj
+The current state is:
+   LObj has value: 100
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 100
+
+Bad Instruction
+The current state is:
+   LObj has value: 100
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 100
+
+Bad Instruction
+The current state is:
+   LObj has value: 100
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 100
+
+Bad Instruction
+The current state is:
+   LObj has value: 100
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 100
+
+Bad Instruction
+The current state is:
+   LObj has value: 100
+   HObj has value: 0
+   Lyle has recently read: 0
+   Hal has recently read: 100

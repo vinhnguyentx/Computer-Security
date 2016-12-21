@@ -1,0 +1,15 @@
+write Hal HObj 10
+read Hal LObj
+write Hal LObj 30
+read Lyle LObj
+read Hal LObj
+write Lyle HObj 40
+write Lyle LObj 60
+Love Lyle HObj
+read Lyle HObj
+Mission Lyle LObj
+read Lyle LObj
+read Hal LObj
+read Hal HObj
+find Hal HObj
+write Lyle HObj 999

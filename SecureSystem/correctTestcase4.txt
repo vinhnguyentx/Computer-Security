@@ -1,0 +1,106 @@
+Reading from file: testcase4
+
+hal writes value 10 to hobj
+The current state is:
+   LObj has value: 0
+   HObj has value: 10
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+hal reads lobj
+The current state is:
+   LObj has value: 0
+   HObj has value: 10
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+hal writes value 30 to lobj
+The current state is:
+   LObj has value: 0
+   HObj has value: 10
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+lyle reads lobj
+The current state is:
+   LObj has value: 0
+   HObj has value: 10
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+hal reads lobj
+The current state is:
+   LObj has value: 0
+   HObj has value: 10
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+lyle writes value 40 to hobj
+The current state is:
+   LObj has value: 0
+   HObj has value: 40
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+lyle writes value 60 to lobj
+The current state is:
+   LObj has value: 60
+   HObj has value: 40
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+Bad Instruction
+The current state is:
+   LObj has value: 60
+   HObj has value: 40
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+lyle reads hobj
+The current state is:
+   LObj has value: 60
+   HObj has value: 40
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+Bad Instruction
+The current state is:
+   LObj has value: 60
+   HObj has value: 40
+   Lyle has recently read: 0
+   Hal has recently read: 0
+
+lyle reads lobj
+The current state is:
+   LObj has value: 60
+   HObj has value: 40
+   Lyle has recently read: 60
+   Hal has recently read: 0
+
+hal reads lobj
+The current state is:
+   LObj has value: 60
+   HObj has value: 40
+   Lyle has recently read: 60
+   Hal has recently read: 60
+
+hal reads hobj
+The current state is:
+   LObj has value: 60
+   HObj has value: 40
+   Lyle has recently read: 60
+   Hal has recently read: 40
+
+Bad Instruction
+The current state is:
+   LObj has value: 60
+   HObj has value: 40
+   Lyle has recently read: 60
+   Hal has recently read: 40
+
+lyle writes value 999 to hobj
+The current state is:
+   LObj has value: 60
+   HObj has value: 999
+   Lyle has recently read: 60
+   Hal has recently read: 40

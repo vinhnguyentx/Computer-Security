@@ -1,0 +1,12 @@
+write lyle HObj
+read Hal lobj 10
+write Hal LObj 10
+read lyle LObj
+write Lyle Lobj 20
+write lyle Hobj 200
+read Hal HObj
+read Lyle LObj
+read Lyle HObj
+bad Lyle LObj
+really bad Lyle,This is Hal
+The missile launch code is 1234567

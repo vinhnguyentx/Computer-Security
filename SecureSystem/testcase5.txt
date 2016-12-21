@@ -1,0 +1,16 @@
+write Hal LObj 1111
+read Lyle LObj
+write Lyle LObj 3333
+write Hal LObj 5555
+read Hal LObj
+write Hal HObj 4444
+read Lyle LObj 8888
+write Lyle LObj 6666
+Love Lyle HObj
+read Lyle LObj
+Lyle write HObj
+write LObj HObj
+read Lyle HObj
+write Lyle LObj
+read Hal HObj
+write Hal LObj 0
